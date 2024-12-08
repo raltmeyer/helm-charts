@@ -3,7 +3,7 @@ entries:
   test-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-12-08T00:30:43.356282-03:00"
+    created: "2024-12-08T01:18:10.709505-03:00"
     description: A Helm chart for Kubernetes
     digest: 426354ddbac9ee9e7fd40e18e7ad33fdb6720f32840841758b48bc1e5ff2fe0c
     name: test-chart
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://raltmeyer.github.io/helm-charts/test-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-08T00:30:43.355725-03:00"
+generated: "2024-12-08T01:18:10.708977-03:00"
